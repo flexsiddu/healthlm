@@ -1,10 +1,10 @@
 import os
 import streamlit as st 
-from streamlit import message
+from streamlit_chat import message
 from agent import agent_executor
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path='E:\Coding_stuff\jobb_code\Japan-GPT-main\.env')
+load_dotenv()
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 

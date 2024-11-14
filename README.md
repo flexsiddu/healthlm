@@ -1,10 +1,10 @@
-# Japan-GPT
+# HealthLM
 
-**Michibiku: Your Japan Guide**
+**Your Healthcare Chatbot**
 
 ## Description
 
-Japan-GPT is a Streamlit application that serves as your personal guide to Japan. Ask anything about Japan and receive informative responses powered by advanced language models.
+HealthLM is a friendly healthcare assistant chatbot specializing in creating comprehensive care plans and answering medical-related questions
 
 ## Features
 

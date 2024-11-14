@@ -4,7 +4,7 @@ from model import llm, tools, memory
 from langchain.agents import AgentExecutor, create_tool_calling_agent
 from prompt import prompt
 
-load_dotenv(dotenv_path='E:\Coding_stuff\jobb_code\Japan-GPT-main\.env')
+load_dotenv()
 
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 

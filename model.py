@@ -4,7 +4,7 @@ from langchain_community.tools.tavily_search.tool import TavilySearchResults
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path='E:\Coding_stuff\jobb_code\Japan-GPT-main\.env')
+load_dotenv()
 
 # os.environ["LANGCHAIN_TRACING_V2"] = "true"
 # os.environ["LANGCHAIN_API_KEY"] = "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"
