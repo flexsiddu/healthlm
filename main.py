@@ -1,6 +1,6 @@
 import os
 import streamlit as st 
-from streamlit_chat import message
+from streamlit import message
 from agent import agent_executor
 from dotenv import load_dotenv
 
